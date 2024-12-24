@@ -11,5 +11,5 @@ How to use ABAQUS secondary development program to solve the hydration heat temp
 4.Inport ABAQUS assign material, load, contact and association subroutines.  
   https://github.com/qiaoqdq/ABAQUS-subroutine/blob/master/ziyouban/moxing.cae  
 5.View the results and export them.  
-![Result](https://github.com/qiaoqdq/ABAQUS-subroutine/blob/master/ziyouban/3.jpg)
+![Result](https://github.com/qiaoqdq/ABAQUS-subroutine/blob/master/ziyouban/3.png)
 
